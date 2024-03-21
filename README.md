@@ -1,7 +1,7 @@
-Oculus Rift Development Kit 1
+Meta Rift Development Kit 1
 =======
 
-Firmware, Schematics, and Mechanicals for the Oculus Rift Development Kit 1.
+Firmware, Schematics, and Mechanicals for the Meta Rift Development Kit 1.
 
 Firmware
 --------
